@@ -1,0 +1,84 @@
+
+html {
+	height: 1920px;
+	background-image: linear-gradient(to top, blue, white)
+	
+}
+
+
+body{
+	width: 75%;
+	height: 1000px;
+	margin-left:10%;
+	padding-top:0px;
+	background-color:white;
+	
+	
+}
+
+#headliner{
+	margin:0;
+	color:black;
+	font-family:Raleway;
+	font-size:95px;
+	margin-bottom:1px;
+	
+	
+}
+
+#intro {
+	text-align: center;
+}
+
+.maincontent {
+	position: center;
+}
+
+#todo{
+	text-align:center;
+	list-style-position:inside;
+	
+}
+
+
+#sidebar{
+
+	color: white;
+	width:10%;
+	position: absolute;
+	background-color: darkblue;
+
+	
+	
+}
+
+#navbarside{
+	list-style-type:none;
+}
+
+#todol{
+	margin-right:50px;
+}
+
+#todoh{
+	margin-top:250px;
+}
+
+address{
+	margin-top: 150px;
+	
+	font-size:20px;
+	text-align:center;
+	
+}
+
+
+
+a:link{
+	color: lightgray;
+}
+
+a:visited{
+	color: #719CAA;
+}
+
