@@ -1,0 +1,46 @@
+
+#box {
+	
+	margin: auto;
+	position: absolute;
+
+}
+
+.button {
+	margin: auto;
+	width: 50%;
+	display: block;
+	translate
+}
+
+
+#button1{
+	
+	cursor: pointer;
+	
+	width: 150px;
+	height: 50px;
+	background-color: #59adde;
+	color: white;
+	border-color: blue;
+	border-width: 1px;
+	border-radius: 15%;
+	font-size: 25px;
+}
+
+#button2{
+	cursor: pointer;
+	margin-top: 25px;
+	width: 150px;
+	height: 50px;
+	background-color: #FF7276;
+	color: white;
+	border-color: red;
+	border-width: 1px;
+	border-radius: 15%;
+	font-size: 25px;
+	display: none;
+	
+}
+
+
